@@ -81,24 +81,6 @@ Follow the on-screen menu options to:
     Initiate DoS attacks.
     Exit the tool.
 
-Contributing
-
-Contributions are welcome! To contribute:
-
-    Fork the repository.
-    Create a new branch:
-
-git checkout -b feature/your-feature-name
-
-Commit your changes:
-
-git commit -m "Add new feature"
-
-Push to your branch:
-
-    git push origin feature/your-feature-name
-
-    Submit a Pull Request.
 
 License
 
